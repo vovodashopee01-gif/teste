@@ -13,3 +13,15 @@ let pergunta = "quanto custa a passagem?"
 console.log(pergunta, passagem)
 asd
 
+tchau
+
+
+int x = 10;
+int y = 30; 
+int z = x + y;
+console.log(z);
+
+teste
+
+
+vou embora
