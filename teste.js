@@ -7,8 +7,10 @@ OI
 fsadfsdfaa
 
 
+tchau
 
-let passagem = "10 reais"
-let pergunta = "quanto custa a passagem?"
-console.log(pergunta, passagem)
 
+int x = 10;
+int y = 20; 
+int z = x + y;
+console.log(z);
